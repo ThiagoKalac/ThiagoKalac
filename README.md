@@ -25,7 +25,5 @@
   <a href="https://kenzieacademybrasil.slack.com/team/U03DYEHJLNR" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
   
   ##
- 
-  ![Snake animation](https://github.com/rafaballerini/ThiagoKalac/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
