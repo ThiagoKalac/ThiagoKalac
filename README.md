@@ -9,8 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKalac&show_icons=true&theme=dark"/>
-    <hidden img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKalac&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKalac&show_icons=true&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKalac&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
