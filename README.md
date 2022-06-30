@@ -1,7 +1,6 @@
 ### Oii, eu sou o <s>Goku</s> Thiago Kalac👋
 
 - 🔭 Estou atualmente estudando na Kenzie Academy Brasil.
-- 🤯 Front-End: Estudando as habilidades para ser um fron :D
 - 🤓 HTML e CSS foi minhas ultimias habilidades adquiridas
 - 👷 Agora é a vez do JavaScript
 - 🚀 Todo dia é um dia de voar um pouco mais alto, rumo ao desenvolvimento Full Stack.
