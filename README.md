@@ -9,12 +9,6 @@
 - 👨‍🎓 Rumo ao titulo de desenvolvedor FullStack
 - 💻 Amante de CSS
 
-
-<!-- <div align="center">
-  <img aligh="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=thiagokalac" width="49%" alt="languages graph"  />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thiagokalac&show_icons=true&theme=github_dark&hide_border=true" alt="thiagokalac" width="49%" />
-</div> -->
-
 <div>
 <a href="https://github.com/thiagokalac">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKalac&layout=compact&langs_count=7&theme=dracula"/>
