@@ -5,8 +5,6 @@
 ##### Bem vindo ao meu perfil GitHub
 
 - 👨‍💻 Desenvolvedor FullStack - Jr.
-- 🤓 Atualmente finalizando o ultimo o curso de desenvolvimento web FullStack na Kenzie Academy Brasil
-- 👨‍🎓 Rumo ao titulo de desenvolvedor FullStack
 - 💻 Amante de CSS
 - 🕵️ Programador Full Stack -Jr com habilidades em React, JavaScript, HTML, CSS, APIs RESTful, Node.js, PostgreSQL, Django, Python e Git e algumas outras tecnologias. Experiência em projetos de front-end e back-end, incluindo desenvolvimento de aplicações de criptomoedas e integrações e criações de APIs REST. Também tenho formação de Design Gráfico e um breve conhecimento de Figma que auxilia na prospecção de novos projetos. 
 
@@ -15,6 +13,14 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKalac&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagokalac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+## Meus layout feito no figma
+<ul>
+    <li><a href="https://www.figma.com/file/PrdGlIVCBSOUAVxrFMyLoP/GOPOOL.CASH?type=design&node-id=167-2288&t=0w6Yv5DtSj3YsevP-0" target="_blank">LandingPage GoPoolCash</a></li>
+    <li><a href="https://www.figma.com/file/PiCrzhY9rbFaBmqRzK5ZOF/projetoFrontEnd?type=design&node-id=0-1&t=TI5mLrGpV02q7Wn7-0" target="_blank">LandingPage WorkMatch</a></li>
+</ul>
+
+
 
 ## Minhas Habilidades
 <div align="left">
