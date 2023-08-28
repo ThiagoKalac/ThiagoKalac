@@ -48,10 +48,9 @@ Além das minhas transmissões na Twitch, mantenho um canal no YouTube dedicado 
 
 ---
 <div align="center">
-<a href="https://github.com/thiagokalac">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKalac&layout=compact&langs_count=7&theme=great-gatsby"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagokalac&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-<img heigth="400px" src="https://streak-stats.demolab.com?user=ThiagoKalac&theme=great-gatsby&border_radius=6&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>    
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKalac&layout=compact&langs_count=7&theme=great-gatsby"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagokalac&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+    <img heigth="400px" src="https://streak-stats.demolab.com?user=ThiagoKalac&theme=great-gatsby&border_radius=6&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>    
 </div>
     
 
@@ -61,18 +60,36 @@ Além das minhas transmissões na Twitch, mantenho um canal no YouTube dedicado 
 
 ### Me siga nas redes:
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/thiagorodriguessilva1994/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thiagokalac/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/thiagokalac)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thiagokalac)
+<div align="center">
+    <a href="https://www.linkedin.com/in/thiagorodriguessilva1994/" target="_ blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"/>
+    </a>  
+    <a href="https://www.instagram.com/thiagokalac/" target="_ blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    </a>  
+    <a href="https://www.twitch.tv/thiagokalac" target="_ blank">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+    </a>  
+    <a href="https://www.youtube.com/@thiagokalac" target="_ blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    </a>  
+</div>
 
 ---
 
 ### Entre em contato comigo:
 
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://kenzieacademybrasil.slack.com/team/U03DYEHJLNR)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kkVJ5fZt)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thiago.rds@outlook.com.br)
+<div align="center">
+    <a href="https://kenzieacademybrasil.slack.com/team/U03DYEHJLNR" target="_ blank">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+    </a> 
+    <a href="https://discord.gg/kkVJ5fZt" target="_ blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a> 
+    <a href="mailto:thiago.rds@outlook.com.br" target="_ blank">
+        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+    </a> 
+</div>
 
 ---
 
