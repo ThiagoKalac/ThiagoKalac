@@ -24,14 +24,23 @@ Aqui está um pouco sobre mim e o que faço:
 💼 Experiência de 10 anos com a área administrativa tendo vivência com ambiente corporativo.
 
 ### Skills
+<hr>
 
+<div align="center">
+    
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,styledcomponents,nodejs,py,django,express,postgres,ts,figma,git&perline=7)
 
+</div>
 
 ### Estudando
+<hr>
+<div align="center">
+    
+![My Skills](https://skillicons.dev/icons?i=java,spring,angular,threejs&perline=4)    
+    
+</div>
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,angular,threejs&perline=4)
-
+<hr>
 
 ### Layouts criados no figma
 
@@ -61,16 +70,16 @@ Além das minhas transmissões na Twitch, mantenho um canal no YouTube dedicado 
 ### Me siga nas redes:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/thiagorodriguessilva1994/" target="_ blank">
+    <a href="https://www.linkedin.com/in/thiagorodriguessilva1994/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"/>
     </a>  
-    <a href="https://www.instagram.com/thiagokalac/" target="_ blank">
+    <a href="https://www.instagram.com/thiagokalac/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>  
-    <a href="https://www.twitch.tv/thiagokalac" target="_ blank">
+    <a href="https://www.twitch.tv/thiagokalac" target="_blank">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
     </a>  
-    <a href="https://www.youtube.com/@thiagokalac" target="_ blank">
+    <a href="https://www.youtube.com/@thiagokalac" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>  
 </div>
@@ -80,13 +89,13 @@ Além das minhas transmissões na Twitch, mantenho um canal no YouTube dedicado 
 ### Entre em contato comigo:
 
 <div align="center">
-    <a href="https://kenzieacademybrasil.slack.com/team/U03DYEHJLNR" target="_ blank">
+    <a href="https://kenzieacademybrasil.slack.com/team/U03DYEHJLNR" target="_blank">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
     </a> 
-    <a href="https://discord.gg/kkVJ5fZt" target="_ blank">
+    <a href="https://discord.gg/kkVJ5fZt" target="_blank">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a> 
-    <a href="mailto:thiago.rds@outlook.com.br" target="_ blank">
+    <a href="mailto:thiago.rds@outlook.com.br" target="_blank">
         <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
     </a> 
 </div>
