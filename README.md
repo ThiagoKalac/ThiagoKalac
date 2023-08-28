@@ -1,62 +1,82 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff705f&section=header&height=150)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&height=200)
 
-## Oii, eu sou Thiago Silva👋
-##### Bem vindo ao meu perfil GitHub
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Prazer,+meu+nome+é+Thiago!;Bem-vindo+ao+meu+perfil+GitHub!+:%29;Onde+o+código+ganha+vida++:%29)
 
-- 👨‍💻 Desenvolvedor FullStack - Jr.
-- 💻 Amante de CSS
-- 🕵️ Programador Full Stack -Jr com habilidades em React, JavaScript, HTML, CSS, APIs RESTful, Node.js, PostgreSQL, Django, Python e Git e algumas outras tecnologias. Experiência em projetos de front-end e back-end, incluindo desenvolvimento de aplicações de criptomoedas e integrações e criações de APIs REST. Também tenho formação de Design Gráfico e um breve conhecimento de Figma que auxilia na prospecção de novos projetos. 
+---
 
-<div>
+Sou um desenvolvedor **Full Stack** 👨‍💻, apaixonado por tecnologia, **jogos** 🎮 e um carinho especial para o **design!** 🎨 e viciado em **tereré!** 🧉
+
+Aqui está um pouco sobre mim e o que faço:
+
+# Sobre Mim
+
+- **NickName:** ThiagoKalac 🤵🏻
+- **Nome:** Thiago R. Silva 🙋🏻‍♂️
+- **Localização:** Campo Grande - MS 🗺️
+
+💻 Experiência no desenvolvimento de projetos Front-end e Back-end utilizando Stacks como React, JavaScript, HTML, CSS, APIs RESTful, Node.js, Express, TypeScript, PostgreSQL, Django, Python, Git e Figma.
+
+📊 Vivência com metodologia Ágeis (Scrum).
+
+🎨 Noções de UX e design.
+
+💼 Experiência de 10 anos com a área administrativa tendo vivência com ambiente corporativo.
+
+### Skills
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,styledcomponents,nodejs,py,django,express,postgres,ts,figma,git&perline=7)
+
+
+### Estudando
+
+![My Skills](https://skillicons.dev/icons?i=java,spring,angular,threejs&perline=4)
+
+
+### Layouts criados no figma
+
+- [🖌️ LandingPage GoPoolCash](https://www.figma.com/file/PrdGlIVCBSOUAVxrFMyLoP/GOPOOL.CASH?type=design&node-id=167-2288&t=0w6Yv5DtSj3YsevP-0)
+- [🖌️ WorkMatch](https://www.figma.com/file/PiCrzhY9rbFaBmqRzK5ZOF/projetoFrontEnd?type=design&node-id=0-1&t=TI5mLrGpV02q7Wn7-0)
+
+# Paixões/Passatempos
+
+Quando não estou codificando, você pode me encontrar na Twitch 👾, transmitindo minhas sessões de jogos. É uma oportunidade incrível para me conectar com pessoas e compartilhar minhas aventuras.
+
+Aproveite e siga-me para interagirmos! 😉
+
+Além das minhas transmissões na Twitch, mantenho um canal no YouTube dedicado a jogos. 🕹️
+
+---
+<div align="center">
 <a href="https://github.com/thiagokalac">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKalac&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagokalac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKalac&layout=compact&langs_count=7&theme=great-gatsby"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagokalac&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img heigth="400px" src="https://streak-stats.demolab.com?user=ThiagoKalac&theme=great-gatsby&border_radius=6&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>    
 </div>
-
-## Meus layout feito no figma
-<ul>
-    <li><a href="https://www.figma.com/file/PrdGlIVCBSOUAVxrFMyLoP/GOPOOL.CASH?type=design&node-id=167-2288&t=0w6Yv5DtSj3YsevP-0" target="_blank">LandingPage GoPoolCash</a></li>
-    <li><a href="https://www.figma.com/file/PiCrzhY9rbFaBmqRzK5ZOF/projetoFrontEnd?type=design&node-id=0-1&t=TI5mLrGpV02q7Wn7-0" target="_blank">LandingPage WorkMatch</a></li>
-</ul>
-
-
-
-## Minhas Habilidades
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50" height="50"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"  width="50" height="50"/>
-                
     
-</div>
-
- ## Ferramentas
-<div align="left" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60"/>        
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> 
-</div>
 
 
 
-## Contatos
-<div> 
-  <a href="https://instagram.com/thiagokalac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiagorodriguessilva1994" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://kenzieacademybrasil.slack.com/team/U03DYEHJLNR" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
-  
-  
-  ##
-    
-  ![Snake animation](https://github.com/ThiagoKalac/ThiagoKalac/blob/output/github-contribution-grid-snake.svg)
-    
-</div>
+---
 
+### Me siga nas redes:
 
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/thiagorodriguessilva1994/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thiagokalac/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/thiagokalac)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thiagokalac)
+
+---
+
+### Entre em contato comigo:
+
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://kenzieacademybrasil.slack.com/team/U03DYEHJLNR)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kkVJ5fZt)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thiago.rds@outlook.com.br)
+
+---
+
+Estou sempre buscando aprender mais e aprimorar minhas habilidades. Se você está interessado em colaborar ou apenas quer bater um papo sobre tecnologia e jogos, sinta-se à vontade para entrar em contato comigo. Estou disposto a construir algo incrível juntos! <br>
+<p align="center">👨‍💻😊🚀</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=ff705f&section=footer&height=150)
