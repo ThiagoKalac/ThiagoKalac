@@ -13,7 +13,7 @@ Aqui está um pouco sobre mim e o que faço:
 
 - **NickName:** ThiagoKalac 🤵🏻
 - **Nome:** Thiago R. Silva 🙋🏻‍♂️
-- **Localização:** Campo Grande - MS 🗺️
+- **Localização:** Londrina - PR 🗺️
 
 💻 Experiência no desenvolvimento de projetos Front-end e Back-end utilizando Stacks como React, JavaScript, HTML, CSS, APIs RESTful, Node.js, Express, TypeScript, PostgreSQL, Django, Python, Git e Figma.
 
@@ -28,7 +28,7 @@ Aqui está um pouco sobre mim e o que faço:
 
 <div align="center">
     
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,styledcomponents,nodejs,py,django,express,postgres,ts,figma,git&perline=7)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,styledcomponents,nodejs,py,django,flutter,express,postgres,ts,figma,git&perline=7)
 
 </div>
 
@@ -36,7 +36,7 @@ Aqui está um pouco sobre mim e o que faço:
 <hr>
 <div align="center">
     
-![My Skills](https://skillicons.dev/icons?i=java,spring,angular,threejs&perline=4)    
+![My Skills](https://skillicons.dev/icons?i=flutter&perline=4)    
     
 </div>
 
